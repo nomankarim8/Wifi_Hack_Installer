@@ -6,7 +6,7 @@ Contact Me On Telegram
 Tg_User:@biri_baba \n''')
 os.system("pkg install -y root-repo")
 os.system("pkg install -y git tsu python wpa-supplicant pixiewps iw")
-os.system("cd ..;git clone https://github.com/Mahfuz-THBD/Wifi_Hack")
+os.system("cd ..;git clone https://github.com/nomankarim8/Wifi_Hack.git")
 
 os.system("cd ..;chmod +x Wifi_Hack/birihack.py")
 

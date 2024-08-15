@@ -10,4 +10,4 @@ os.system("cd ..;git clone https://github.com/Mahfuz-THBD/Wifi_Hack")
 
 os.system("cd ..;chmod +x Wifi_Hack/nomanhack.py")
 
-print("\033[1;34;40mThanks.\nInstallation Done.\nNow Go To Home Directory[~] And Enter This Command :\nsudo python Wifi_Hack/birihack.py -i wlan0 -K")
+print("\033[1;34;40mThanks.\nInstallation Done.\nNow Go To Home Directory[~] And Enter This Command :\nsudo python Wifi_Hack/nomanhack.py -i wlan0 -K")
